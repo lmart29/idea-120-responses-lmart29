@@ -8,7 +8,10 @@
 ### You're the one with the encyclopedic knowledge
 ### WE WERE DISCUSSING YOU - NOT ME
 
+
+
+
 [AI Tries 20 Jobs - WIRED](https://www.youtube.com/watch?v=tTagNMmzgQo&ab_channel=WIRED)
 
-! [A woman standing staring out over a field on a farm, it is likely AI but hard to tell for sure] (fa(i)rm.jpg)
-! [A doctored image of an animated person's head and brain repeats on itself] (how it feels.jpg)
+![A woman standing staring out over a field on a farm, it is likely AI but hard to tell for sure](fa(i)rm.jpg)
+![A doctored image of an animated person's head repeats on itself](how it feels.jpg)
